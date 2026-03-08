@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I am a final-year **Computer Science** student specializing in Artificial Intelligence. My journey wasn't about shortcuts; I built my understanding from the bottom up:
+I am an **AI Engineer**. My journey wasn't about shortcuts; I built my understanding from the bottom up:
 
 1.  **Machine Learning:** Mastered the mathematical foundations and statistical learning.
 2.  **Deep Learning:** Built neural networks from scratch to understand backpropagation and architecture.
