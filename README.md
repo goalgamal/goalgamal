@@ -4,7 +4,7 @@
 
 # Hi, I'm Goal Gamal 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;Building+LLMs+from+Scratch;RAG+Systems+Architect;Optimizing+Transformer+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Building+LLMs+from+Scratch;RAG+Systems+Architect;Optimizing+Transformer+Models)](https://git.io/typing-svg)
 
 </div>
 
