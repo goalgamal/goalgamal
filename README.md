@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=LLM%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Deep%20Learning%20|%20NLP&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=AI%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Deep%20Learning%20|%20NLP&descAlignY=51&descAlign=62)
 
 <div align="center">
 
